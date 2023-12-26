@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Jonier, a passionate Flutter developer with a love for crafting mobile experiences! 🚀<br>📚 Eager learner, committed to coding excellence, and adept at problem-solving.<br>🌐 Open to collaborations, excited to connect with developers. Let's code, learn, and create something extraordinary! <br></p>
+<p align="left">👋 Hello, I'm Jonier, a passionate Flutter developer with a love for crafting mobile experiences! <br>📚 Eager learner, committed to coding excellence, and adept at problem-solving.<br>🌐 Open to collaborations, excited to connect with developers. Let's code, learn, and create something extraordinary! <br></p>
 
 ###
 
